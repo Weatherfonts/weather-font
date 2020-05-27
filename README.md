@@ -36,5 +36,5 @@ The icon designs are originally by [Lukas Bischoff](http://www.twitter.com/artil
 ## Licensing
 
 * Weather Icons licensed under [SIL OFL 1.1](http://scripts.sil.org/OFL)
-* Code licensed under [MIT License](http://opensource.org/licenses/mit-license.html)
+* Code licensed underthe MIT license applies to all non-font and non-icon files In the weatherfont Free download.[MIT License](http://opensource.org/licenses/mit-license.html)
 * Documentation licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)
