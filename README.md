@@ -1,10 +1,10 @@
-# Weather Icons
+# Weather Icons 3.0
 
 ## 222 Weather Themed Icons and CSS
 
 Weather Icons is the only icon font and CSS with 222 weather themed icons, ready to be dropped right into [Bootstrap](http://www.getbootstrap.com), or any project that needs high quality weather, maritime, and meteorological based icons!
 
-Get started at [http://weathericons.io](http://weathericons.io)!
+Get started at [https://weatherfont.com/](https://weatherfont.com/)!
 
 ![Icon Preview](http://i.imgur.com/XmZW2q3.png)
 
@@ -14,11 +14,11 @@ Place the 5 font files and the main `weather-icons.min.css` file in your project
 
 The icons are displayed by using an `i` element and adding the base class `wi` and then the icon class you want, such as `day-sunny`. This then looks like `<i class="wi wi-day-sunny"></i>`.
 
-To add a modifier, include the class you want after the icon name, which looks like `<i class="wi wi-day-sunny wi-flip-vertical"></i>`. You can flip, rotate, or add a fixed width. See it all at [http://weathericons.io](http://weathericons.io).
+To add a modifier, include the class you want after the icon name, which looks like `<i class="wi wi-day-sunny wi-flip-vertical"></i>`. You can flip, rotate, or add a fixed width. See it all at [https://weatherfont.com/](https://weatherfont.com/).
 
 ## API Usage
 
-This set includes companion CSS files for popular weather service API. Presently there are mappings for Forecast.io, Open Weather Map, World Meteorological Organization, Weather Underground, and Yahoo. Check the [API List](https://erikflowers.github.io/weather-icons/api-list.html) to see the class names.
+This set includes companion CSS files for popular weather service API. Presently there are mappings for Forecast.io, Open Weather Map, World Meteorological Organization, Weather Underground, and Yahoo. Check the [API List](https://weatherfont.com/api-list.html) to see the class names.
 
 ## Wind Usage
 
@@ -30,10 +30,11 @@ Included in the set as well are aliases to point to cardinal directions. They wo
 If you feel so inclined to add icon ideas, icon art, or other fixes/changes to how the package works, feel free to help!
 
 ## Credit
-The icon designs are originally by [Lukas Bischoff](http://www.twitter.com/artill). Icon art for v1.1 forward, HTML, Less, and CSS are by [me (Erik)](http://www.helloerik.com).
+The icon designs are originally by [Lukas Bischoff](http://www.twitter.com/artill). Icon art for v1.1 forward, HTML, Less, and CSS are by Erik Flowers (http://www.helloerik.com). The project take over was planned for 2018 but due to personal and business reasons it took longer to get it back up. Now in 2020 We are finally back on track and the 3.0 icons are being developed.
+
 
 ## Licensing
 
 * Weather Icons licensed under [SIL OFL 1.1](http://scripts.sil.org/OFL)
 * Code licensed under [MIT License](http://opensource.org/licenses/mit-license.html)
-* Documentation licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0)
+* Documentation licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0)
